@@ -1,0 +1,23 @@
+WebHosting
+==========
+
+http://members.000webhost.com
+
+Login Email: damiancalabresi@gmail.com
+Password: passw0rd!
+
+FTP
+===
+
+popper.net63.net
+a2784437
+Passw0rd!
+(esta es con mayúscula en la P)
+
+Base de datos (creada para dolphin, borrar esta y crear otra)
+=============
+
+$mysql_host = "mysql1.000webhost.com";
+$mysql_database = "a2784437_dolphin";
+$mysql_user = "a2784437_root";
+$mysql_password = "passw0rd!";
