@@ -1,0 +1,27 @@
+Membresía
+=========
+DNI
+Apellido
+Nombres
+Legajo y/o Padrón
+Correo Electrónico
+Contraseña
+
+Al registrarse el usuario indica los roles que quiere tener (aprendiz o mediador)
+
+El Administrador debe aceptar a los miembros y asignar los roles
+
+
+Roles
+=====
+Administrador
+Mediador
+Aprendiz
+
+Permisos
+========
+	Visitante
+	Administrador
+	Miembro
+	Mediador
+	Aprendiz
