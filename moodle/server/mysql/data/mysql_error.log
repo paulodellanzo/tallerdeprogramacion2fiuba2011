@@ -1,0 +1,32 @@
+110917 17:34:43 [Note] Plugin 'FEDERATED' is disabled.
+InnoDB: The InnoDB memory heap is disabled
+InnoDB: Mutexes and rw_locks use Windows interlocked functions
+InnoDB: Compressed tables use zlib 1.2.3
+110917 17:34:43  InnoDB: Initializing buffer pool, size = 16.0M
+110917 17:34:43  InnoDB: Completed initialization of buffer pool
+InnoDB: The first specified data file C:\Users\damian\Moodle\server\mysql\data\ibdata1 did not exist:
+InnoDB: a new database to be created!
+110917 17:34:43  InnoDB: Setting file C:\Users\damian\Moodle\server\mysql\data\ibdata1 size to 10 MB
+InnoDB: Database physically writes the file full: wait...
+110917 17:34:43  InnoDB: Log file C:\Users\damian\Moodle\server\mysql\data\ib_logfile0 did not exist: new to be created
+InnoDB: Setting log file C:\Users\damian\Moodle\server\mysql\data\ib_logfile0 size to 5 MB
+InnoDB: Database physically writes the file full: wait...
+110917 17:34:43  InnoDB: Log file C:\Users\damian\Moodle\server\mysql\data\ib_logfile1 did not exist: new to be created
+InnoDB: Setting log file C:\Users\damian\Moodle\server\mysql\data\ib_logfile1 size to 5 MB
+InnoDB: Database physically writes the file full: wait...
+InnoDB: Doublewrite buffer not found: creating new
+InnoDB: Doublewrite buffer created
+InnoDB: 127 rollback segment(s) active.
+InnoDB: Creating foreign key constraint system tables
+InnoDB: Foreign key constraint system tables created
+110917 17:34:44  InnoDB: 1.1.4 started; log sequence number 0
+110917 17:34:44 [Note] Event Scheduler: Loaded 0 events
+110917 17:34:44 [Note] mysql\bin\mysqld.exe: ready for connections.
+Version: '5.5.8'  socket: ''  port: 3306  MySQL Community Server (GPL)
+110917 17:40:36 [Note] mysql\bin\mysqld.exe: Normal shutdown
+
+110917 17:40:36 [Note] Event Scheduler: Purging the queue. 0 events
+110917 17:40:36  InnoDB: Starting shutdown...
+110917 17:40:38  InnoDB: Shutdown completed; log sequence number 6253256
+110917 17:40:38 [Note] mysql\bin\mysqld.exe: Shutdown complete
+
